@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hona.gRPC.FeatureFlags", "Hona.gRPC.FeatureFlags\Hona.gRPC.FeatureFlags.csproj", "{9407E89D-2957-4BB7-AB29-163A891598B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{440EE66E-AD02-4951-8A07-4E95529C32CE}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9407E89D-2957-4BB7-AB29-163A891598B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9407E89D-2957-4BB7-AB29-163A891598B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9407E89D-2957-4BB7-AB29-163A891598B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9407E89D-2957-4BB7-AB29-163A891598B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
